@@ -1,4 +1,3 @@
-<!-- Header -->
 
 
 # 👋 Hi, I'm Yurii Davydiuk
@@ -8,7 +7,7 @@
 *Building interfaces people enjoy using*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yurii_Davydiuk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriidavydiuk/)
-[![Telegram](https://img.shields.io/badge/Telegram-@YuriiDavydiuk-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@davydiuk_yurii)
+[![Telegram](https://img.shields.io/badge/Telegram-@davydiuk_yurii-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/davydiuk_yurii)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:davydiuk.yurii@gmail.com)
 
 </div>
@@ -19,19 +18,17 @@
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,js,html,css,sass,figma)](https://skillicons.dev)
 
-**Tools & Workflow**
+**Backend & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,vscode,docker)](https://skillicons.dev)
+
+**Data**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
@@ -52,7 +49,3 @@
 ![English](https://img.shields.io/badge/English-B2-4A90D9?style=flat-square)
 
 ---
-
-
-
-
