@@ -45,8 +45,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔗 [PawHut](https://yuriidavydiuk.github.io/command-project-PawHut/) | Short description of what it does and why it's interesting | React · TypeScript |
-| 🔗 [CoffeeJoy](https://yuriidavydiuk.github.io/command-project-CoffeeJoy/) | Short description of what it does and why it's interesting | Next.js · API |
+| 🔗 [PawHut](https://yuriidavydiuk.github.io/command-project-PawHut/) | A web application for an animal shelter | JavaScript · CSS · HTML5 · API  |
+| 🔗 [CoffeeJoy](https://yuriidavydiuk.github.io/command-project-CoffeeJoy/) | A coffee shop website | JavaScript · CSS · HTML5  |
 
 > 🚧 More projects coming soon
 
