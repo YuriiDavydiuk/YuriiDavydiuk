@@ -48,7 +48,7 @@
 | 🔗 [Project Name](https://github.com/YuriiDavydiuk/project) | Short description of what it does and why it's interesting | React · TypeScript |
 | 🔗 [Project Name](https://github.com/YuriiDavydiuk/project) | Short description of what it does and why it's interesting | Next.js · API |
 
-> 🚧 More projects coming soon — currently working at Itera
+> 🚧 More projects coming soon
 
 ---
 
