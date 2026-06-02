@@ -1,5 +1,5 @@
 <!-- Header -->
-<div align="center">
+
 
 # 👋 Hi, I'm Yurii Davydiuk
 
