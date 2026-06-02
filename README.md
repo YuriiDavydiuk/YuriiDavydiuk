@@ -7,9 +7,9 @@
 
 *Building interfaces people enjoy using*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yurii_Davydiuk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YuriiDavydiuk)
-[![Telegram](https://img.shields.io/badge/Telegram-@YuriiDavydiuk-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yurii_Davydiuk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriidavydiuk/)
+[![Telegram](https://img.shields.io/badge/Telegram-@YuriiDavydiuk-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/@davydiuk_yurii)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:davydiuk.yurii@gmail.com)
 
 </div>
 
@@ -42,27 +42,17 @@
 | 🔗 [Project Name](https://github.com/YuriiDavydiuk/project) | Short description of what it does and why it's interesting | React · TypeScript |
 | 🔗 [Project Name](https://github.com/YuriiDavydiuk/project) | Short description of what it does and why it's interesting | Next.js · API |
 
-> 🚧 More projects coming soon — currently working at Itera
+> 🚧 More projects coming soon
 
 ---
 
 ## 🗣️ Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-FFD700?style=flat-square)
-![English](https://img.shields.io/badge/English-B1-4A90D9?style=flat-square)
+![English](https://img.shields.io/badge/English-B2-4A90D9?style=flat-square)
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Yurii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuriiDavydiuk&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiDavydiuk&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
 
 
