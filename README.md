@@ -37,6 +37,7 @@
 
 ![MS SQL](https://img.shields.io/badge/-MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
