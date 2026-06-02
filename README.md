@@ -14,6 +14,19 @@
 
 ---
 
+## 🧑‍💻 About me
+
+- 🚀 Enjoy turning complex requirements into simple, intuitive UIs with **React** and **TypeScript**
+- 🖥️ Comfortable working across the full stack — from designing in **Figma** to connecting REST APIs with **Node.js**
+- 📊 Experienced with data-heavy apps using **MS SQL**, **MongoDB**, and **Tableau**
+- 🤝 Strong communicator — value collaboration, code reviews, and continuous learning within a team
+
+| 📍 Location | 💼 Focus | 💡 Interests |
+|---|---|---|
+| Lviv, Ukraine | Frontend development | UX, performance, clean code |
+
+---
+
 ## 🧰 Tech Stack
 
 **Frontend**
