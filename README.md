@@ -45,7 +45,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔗 [Project Name](https://github.com/YuriiDavydiuk/project) | Short description of what it does and why it's interesting | React · TypeScript |
+| 🔗 [PawHut](https://yuriidavydiuk.github.io/command-project-PawHut/) | Short description of what it does and why it's interesting | React · TypeScript |
 | 🔗 [Project Name](https://github.com/YuriiDavydiuk/project) | Short description of what it does and why it's interesting | Next.js · API |
 
 > 🚧 More projects coming soon
